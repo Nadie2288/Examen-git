@@ -1,6 +1,6 @@
  
  public static void main(String[] args) {   
- public static void multiplos(int numeros) {
+ public static void (int numeros) {
             if(i%7==0){
                 System.out.println("Múltiplo de 7: "+i);
 
